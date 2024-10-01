@@ -1,0 +1,43 @@
+{
+    "editor.fontFamily": "'0xProto Nerd Font Mono', 'Droid Sans Mono', 'monospace', monospace",
+    "editor.wordWrap": "on",
+    "editor.autoClosingQuotes": "never",
+    "editor.autoClosingDelete": "never",
+    "editor.autoClosingComments": "never",
+    "editor.autoClosingOvertype": "never",
+    "editor.autoClosingBrackets": "never",
+    "editor.minimap.enabled": false,
+    "editor.stickyScroll.enabled": false,
+    "workbench.startupEditor": "none",
+    "git.autofetch": true,
+    "git.confirmSync": false,
+    "explorer.confirmDragAndDrop": false,
+    "terminal.external.linuxExec": "wezterm",
+    "workbench.colorTheme": "honolulu forest",
+    "editor.fontSize": 13,
+    "debug.console.fontSize": 13,
+    "scm.inputFontSize": 12,
+    "powermode.enabled": true,
+    "powermode.combo.counterEnabled": "hide",
+    "powermode.combo.timeout": 0,
+    "powermode.combo.timerEnabled": "hide",
+    "powermode.shake.enabled": false,
+    "powermode.explosions.enabled": true,
+    "powermode.explosions.customExplosions": [
+        "https://media.tenor.com/0wNCZMs4VHcAAAAi/rolling-cat-cat-rolling.gif"
+    ],
+    "powermode.explosions.backgroundMode": "image",
+    "powermode.explosions.size": 6,
+    "powermode.presets": "clippy",
+    "powermode.explosions.customCss": {
+        "margin-left": "18px",
+        "transform": "scaleX(-1)"
+    },
+    "powermode.explosions.duration": 1000,
+    "powermode.explosions.offset": 0.15,
+    "javascript.suggest.enabled": false,
+    "editor.quickSuggestions": {
+        "other": "off"
+    },
+    "editor.lineHeight": 1.5,
+}
