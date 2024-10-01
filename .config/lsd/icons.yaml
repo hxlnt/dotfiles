@@ -1,17 +1,31 @@
 name:
   .bashrc: 
+  .eslintrc.js: 
+  .eslintrc.json: 
+  .eslintrc.yml: 
+  .git: 
+  .gitignore: 
+  .gitlab-ci.yml: 
   .todo: 
   .trash: 
+  commit_editmsg: 
+  config: 
   desktop: 
+  description: 
   documents: 
   downloads: 
+  fetch_head: 
   go.mod: 
   go.sum: 
+  head: 
+  heroku.yml: 
+  index: 
   lib: 
   license: 
   makefile: 
   music: 
   node_modules: 
+  orig_head: 
   package.json: 
   pictures: 
   public: 
@@ -21,6 +35,10 @@ name:
   tests: 
   videos: 
 extension:
+  1: 
+  2: 
+  3: 
+  4: 
   asm: 
   avi: 
   bak: 
@@ -42,6 +60,7 @@ extension:
   exe: 
   go: 
   gif: 
+  git: 
   h: 
   hpp: 
   hex: 
@@ -59,19 +78,24 @@ extension:
   list: 
   lock: 
   log: 
+  lua: 
   md: 
   m4v: 
   mpeg: 
   mpg: 
   nes: 
   nfo: 
+  old: 
   otf: 
   png: 
+  ppt: 
+  pptx: 
   py: 
   rar: 
   rom: 
   rs: 
   rss: 
+  save: 
   sh: 
   tar: 
   toml: 
