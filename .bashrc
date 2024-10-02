@@ -125,6 +125,7 @@ cd ~
 cdl() {
     cd "$1" && lsd --long --tree
     }
+alias cd='cdl'
 source ~/.venv/bin/activate
 echo "   "
 echo "󱕅 NO REFUNDS / NO CASH VALUE / NO BAD MEMORIES"
